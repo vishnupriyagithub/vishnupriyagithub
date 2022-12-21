@@ -3,14 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Login Form using HTML5 , CSS and JS </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Basic login form linked to firebase for data retrieval](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Weather-App  (React JS)</b>
+  - [Current weather datails and forecast of any location in the world]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/vishnupriyagithub/weather-app.git)) <b><i>(Potentially NSFW)</b></i>
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 
