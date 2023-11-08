@@ -5,7 +5,7 @@
 - <b>Login Form using HTML5 , CSS and JS </b>
   - [Basic login form linked to firebase for data retrieval](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Weather-App  (React JS)</b>
-  - [Current weather datails and forecast of any location in the world]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/vishnupriyagithub/weather-app.git)) <b><i>(Potentially NSFW)</b></i>
+  - [Current weather datails and forecast of any location in the world]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/vishnupriyagithub/weather-app.git)) 
 
 
 
